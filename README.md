@@ -1,6 +1,6 @@
 ﻿# Counter App (Flutter)
 
-Basit ama temiz bir Flutter sayac uygulamasÄ±. Bu repo; hÄ±zlÄ± kurulum, Ã§alÄ±ÅŸtÄ±rma ve yayÄ±n iÃ§in gerekli adÄ±mlar ile birlikte ekran gÃ¶rÃ¼ntÃ¼leri iÃ§in bir alan iÃ§erir.
+Basit ama temiz bir Flutter sayaÃ§ uygulamasÄ±. Bu repo; hÄ±zlÄ± kurulum, Ã§alÄ±ÅŸtÄ±rma ve yayÄ±n iÃ§in gerekli adÄ±mlar ile birlikte ekran gÃ¶rÃ¼ntÃ¼leri iÃ§in bir alan iÃ§erir.
 
 ## Ã–zellikler
 - ArtÄ±rma/Azaltma ile sayaÃ§ kontrolÃ¼
@@ -24,7 +24,7 @@ flutter run
 flutter test
 ```
 
-## Build (Release)
+## Build (YayÄ±n)
 ```bash
 # Android APK
 flutter build apk --release
@@ -39,7 +39,7 @@ flutter build web --release
 ## Proje YapÄ±sÄ± (kÄ±saca)
 - `lib/`: Uygulama kaynak kodu (giriÅŸ noktasÄ±: `lib/main.dart`)
 - `test/`: Widget ve birim testleri
-- `android/`, `ios/`, `web/`, `windows/`, `macos/`, `linux/`: Platforma Ã¶zel dosyalar
+- `android/`, `ios/`, `web/`, `windows/`, `macOS/`, `linux/`: Platforma Ã¶zel dosyalar
 
 ## Ekran GÃ¶rÃ¼ntÃ¼leri
 `screenshots/` klasÃ¶rÃ¼ne cihaz/emÃ¼latÃ¶r gÃ¶rÃ¼ntÃ¼lerinizi ekleyin. AÅŸaÄŸÄ±daki baÅŸlÄ±klar otomatik baÄŸlanacak ÅŸekilde dÃ¼zenlendi. DosyalarÄ± ekledikten sonra isimleri korursanÄ±z READMEâ€™de otomatik gÃ¶rÃ¼nÃ¼r.
@@ -48,7 +48,7 @@ flutter build web --release
 - iOS: ![iOS](screenshots/ios.png)
 - Web: ![Web](screenshots/web.png)
 
-> Not: EÄŸer farklÄ± isimler kullanacaksanÄ±z READMEâ€™yi buna gÃ¶re gÃ¼ncelleyebilirsiniz.
+> Not: FarklÄ± dosya adlarÄ± kullanacaksanÄ±z READMEâ€™yi buna gÃ¶re gÃ¼ncelleyebilirim.
 
 ## KatkÄ±
 - PR ve issueâ€™lar memnuniyetle kabul edilir.
