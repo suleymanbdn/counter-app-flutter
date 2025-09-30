@@ -1,0 +1,63 @@
+﻿# Flutter/Dart
+**/doc/api/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_export_environment.sh
+
+# IntelliJ/Android Studio
+*.iml
+.idea/
+.android/
+.ios/
+
+# VS Code
+.vscode/
+
+# Xcode
+**/xcshareddata/WorkspaceSettings.xcsettings
+**/DerivedData/
+**/Pods/
+**/.symlinks/
+**/Flutter/ephemeral/
+
+# Android
+**/local.properties
+.cxx/
+**/captures/
+**/gradle-wrapper.jar
+**/gradle/wrapper/gradle-wrapper.jar
+
+# iOS/macOS
+**/*.mode1v3
+**/*.mode2v3
+**/*.perspectivev3
+**/*.pbxuser
+**/xcuserdata/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+
+# Coverage
+coverage/
+
+# Generated files
+**/GeneratedPluginRegistrant.*
+**/generated_plugin_registrant.*
+**/flutter_export_environment.*
+
+# Crashlytics
+**/fabric/
+**/crashlytics-build.properties
+
+# Others
+*.lock
+*.log
