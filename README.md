@@ -1,4 +1,4 @@
-﻿# Counter App (Flutter)
+# Counter App (Flutter)
 
 Basit bir Flutter sayaÃ§ uygulamasÄ±.
 

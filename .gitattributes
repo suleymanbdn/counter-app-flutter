@@ -1,0 +1,2 @@
+﻿# Normalize line endings and enforce UTF-8 for docs
+*.md text eol=lf working-tree-encoding=UTF-8
